@@ -1,0 +1,11 @@
+ADMIN
+Tk: admin@gmail.com
+Mk: a
+
+USER
+Tk: dokima@gmail.com
+Mk: a
+
+STAFF
+Tk: dokimc@gmail.com
+Mk: a
